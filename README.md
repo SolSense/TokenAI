@@ -1,4 +1,4 @@
-# 🚀 AI Token Analyzer
+# 🚀 SolSense AI
 
 ![Token Analyzer Logo](https://warsimulatorai.com/remove.png)
 
