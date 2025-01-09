@@ -20,7 +20,7 @@ Try it now: [AI Token Analyzer](https://solsenseai.com.com)
 ## 💻 Tech Stack
 
 - Frontend: HTML5, CSS3, JavaScript
-- AI Integration: GPT-3.5/Claude-2
+- AI Integration: GPT-3.5/Claude-2/OpenRouter
 - Data Source: pump.fun API
 - Real-time Updates: WebSocket
 
