@@ -15,7 +15,7 @@ A powerful AI-driven analyzer for Solana tokens from pump.fun, providing instant
 
 ## 🎮 Live Demo
 
-Try it now: [AI Token Analyzer](https://solsenseai.com.com)
+Try it now: https://solsenseai.com.com
 
 ## 💻 Tech Stack
 
