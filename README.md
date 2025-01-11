@@ -1,6 +1,6 @@
 # 🚀 SolSense AI
 
-![Token Analyzer Logo](https://warsimulatorai.com/remove.png)
+![Token Analyzer Logo](https://solsenseai.com/remove.png)
 
 A powerful AI-driven analyzer Framework for Solana tokens from pump.fun, providing instant insights and market analysis.
 
