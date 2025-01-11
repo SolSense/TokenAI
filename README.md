@@ -2,7 +2,7 @@
 
 ![Token Analyzer Logo](https://warsimulatorai.com/remove.png)
 
-A powerful AI-driven analyzer for Solana tokens from pump.fun, providing instant insights and market analysis.
+A powerful AI-driven analyzer Framework for Solana tokens from pump.fun, providing instant insights and market analysis.
 
 ## ✨ Features
 
