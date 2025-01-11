@@ -66,6 +66,12 @@ See our [API Documentation](https://solsenseai.com/api.html) for more details.
 - Community Engagement Metrics
 - Viral Potential Assessment
 
+## 📊  Upcoming Features
+
+- Automated purchases of tokens based on AI decisions
+- Github Code Analyser & Website Analyser functions
+- Multi Social Media Trend detection (extend Twitter Meta from now to Reddit, Tiktok and more)
+
 ## 📱 Responsive Design
 
 Built for all devices:
